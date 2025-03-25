@@ -1,2 +1,4 @@
 Nome: Diogo
 cpf: 000.000.000-00
+Idade: 51
+Altura:1.61
